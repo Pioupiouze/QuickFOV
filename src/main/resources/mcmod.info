@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "quickfov",
+    "name": "QuickFOV",
+    "description": "Toggle Quake Pro FOV and restore your previous FOV.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "clientSideOnly": true
+  }
+]
